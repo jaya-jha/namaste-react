@@ -1,0 +1,2 @@
+export const Logo = "https://www.logodesign.net/logo/smoking-burger-with-lettuce-3624ld.png";
+export const RESTAURANT_API_URL = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.7041&lng=77.1025&page_type=DESKTOP_WEB_LISTING";
